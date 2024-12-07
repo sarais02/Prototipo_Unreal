@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# Ignorar las carpetas dentro de cualquier subdirectorio que coincidan con los patrones
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
